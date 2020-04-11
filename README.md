@@ -19,8 +19,8 @@ void update(int): Used to update (reduce) the quantity in store after a customer
 void bill(int): Used to generate the invoice after the customer places an order, depending on the quantity ordered.<br>
 
 The list of variables used is as follows:<br>
-int pid			product id of product in records<br>
-int qty			quantity of product in records<br>
-long int price		price of the product<br>
-char name[50]		name of product<br>
-char brand[50]		brand of product <br>
+int pid:			product id of product in records<br>
+int qty:			quantity of product in records<br>
+long int price:		price of the product<br>
+char name[50]:		name of product<br>
+char brand[50]:		brand of product <br>
